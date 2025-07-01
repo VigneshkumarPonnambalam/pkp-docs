@@ -2,7 +2,7 @@
 isBookIndex: true
 ---
 
-# Learning OJS 3.5
+# Texila Journal
 
 Learning OJS 3.5 is a series of role-based guides that serve as the user manual for Open Journal Systems (OJS), an open source software application for managing and publishing scholarly journals. 
 
